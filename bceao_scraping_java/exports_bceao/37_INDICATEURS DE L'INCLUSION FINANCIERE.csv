@@ -1,0 +1,85 @@
+
+
+IIF - INDICATEURS DE L'INCLUSION FINANCIERE
+
+COTE D'IVOIRE;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+AAASF4025A0AP;Nombre d'institutions recensees;Unite;Aucune;BCEAO;Stock;Somme fin de periode des institutions en activite;46,000;46,000;46,000;-;-;-;-;
+AAASF4026A0AP;Nombre de points de services;Unite;Aucune;BCEAO;Stock;Somme en fin de periode des points de services;398,000;416,000;345,000;-;-;-;-;
+AAASF4027A0AP;Montant des depots des clients;FCFA;Millions;BCEAO;Stock;Fin de periode;381517,000;462652,000;481302,300;-;-;-;-;
+AAASF4028A0AP;Nombre de deposants;Unite;Aucune;BCEAO;Total des deposants sur la periode;;2085983,000;2216528,000;2887477,000;-;-;-;-;
+AAASF4029A0AP;Montants des encours de credits;FCFA;Millions;BCEAO;Stock;Fin de periode;384788,000;442480,000;512975,000;-;-;-;-;
+AAASF4030A0AP;Nombre de credits en cours;Unite;Aucune;BCEAO;Stock;Somme sur la periode;-;-;-;-;-;-;-;
+
+BENIN;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+BBBSF4025A0AP;Nombre d'institutions recensees;Unite;Aucune;BCEAO;Stock;Somme fin de periode des institutions en activite;60,000;58,000;57,000;-;-;-;-;
+BBBSF4026A0AP;Nombre de points de services;Unite;Aucune;BCEAO;Stock;Somme en fin de periode des points de services;718,000;837,000;727,000;-;-;-;-;
+BBBSF4027A0AP;Montant des depots des clients;FCFA;Millions;BCEAO;Stock;Fin de periode;124400,000;149397,000;172704,300;-;-;-;-;
+BBBSF4028A0AP;Nombre de deposants;Unite;Aucune;BCEAO;Total des deposants sur la periode;;2884987,000;3166592,000;3079677,000;-;-;-;-;
+BBBSF4029A0AP;Montants des encours de credits;FCFA;Millions;BCEAO;Stock;Fin de periode;149838,000;196053,000;227712,700;-;-;-;-;
+BBBSF4030A0AP;Nombre de credits en cours;Unite;Aucune;BCEAO;Stock;Somme sur la periode;-;-;-;-;-;-;-;
+
+BURKINA FASO;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+CCCSF4025A0AP;Nombre d'institutions recensees;Unite;Aucune;BCEAO;Stock;Somme fin de periode des institutions en activite;81,000;81,000;76,000;-;-;-;-;
+CCCSF4026A0AP;Nombre de points de services;Unite;Aucune;BCEAO;Stock;Somme en fin de periode des points de services;702,000;713,000;795,000;-;-;-;-;
+CCCSF4027A0AP;Montant des depots des clients;FCFA;Millions;BCEAO;Stock;Fin de periode;305664,000;350899,000;375601,800;-;-;-;-;
+CCCSF4028A0AP;Nombre de deposants;Unite;Aucune;BCEAO;Total des deposants sur la periode;;1469883,000;1571750,000;1748783,000;-;-;-;-;
+CCCSF4029A0AP;Montants des encours de credits;FCFA;Millions;BCEAO;Stock;Fin de periode;234808,000;275005,000;331084,400;-;-;-;-;
+CCCSF4030A0AP;Nombre de credits en cours;Unite;Aucune;BCEAO;Stock;Somme sur la periode;-;-;-;-;-;-;-;
+
+MALI;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+DDDSF4025A0AP;Nombre d'institutions recensees;Unite;Aucune;BCEAO;Stock;Somme fin de periode des institutions en activite;86,000;82,000;84,000;-;-;-;-;
+DDDSF4026A0AP;Nombre de points de services;Unite;Aucune;BCEAO;Stock;Somme en fin de periode des points de services;857,000;856,000;1019,000;-;-;-;-;
+DDDSF4027A0AP;Montant des depots des clients;FCFA;Millions;BCEAO;Stock;Fin de periode;114365,000;137639,000;146694,800;-;-;-;-;
+DDDSF4028A0AP;Nombre de deposants;Unite;Aucune;BCEAO;Total des deposants sur la periode;;1312410,000;1385664,000;1529277,000;-;-;-;-;
+DDDSF4029A0AP;Montants des encours de credits;FCFA;Millions;BCEAO;Stock;Fin de periode;139184,000;161075,000;194644,900;-;-;-;-;
+DDDSF4030A0AP;Nombre de credits en cours;Unite;Aucune;BCEAO;Stock;Somme sur la periode;-;-;-;-;-;-;-;
+
+NIGER;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+HHHSF4025A0AP;Nombre d'institutions recensees;Unite;Aucune;BCEAO;Stock;Somme fin de periode des institutions en activite;36,000;37,000;37,000;-;-;-;-;
+HHHSF4026A0AP;Nombre de points de services;Unite;Aucune;BCEAO;Stock;Somme en fin de periode des points de services;133,000;127,000;135,000;-;-;-;-;
+HHHSF4027A0AP;Montant des depots des clients;FCFA;Millions;BCEAO;Stock;Fin de periode;27122,000;30592,000;25090,400;-;-;-;-;
+HHHSF4028A0AP;Nombre de deposants;Unite;Aucune;BCEAO;Total des deposants sur la periode;;334829,000;360155,000;323791,000;-;-;-;-;
+HHHSF4029A0AP;Montants des encours de credits;FCFA;Millions;BCEAO;Stock;Fin de periode;27036,000;27681,000;19735,100;-;-;-;-;
+HHHSF4030A0AP;Nombre de credits en cours;Unite;Aucune;BCEAO;Stock;Somme sur la periode;-;-;-;-;-;-;-;
+
+SENEGAL;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+KKKSF4025A0AP;Nombre d'institutions recensees;Unite;Aucune;BCEAO;Stock;Somme fin de periode des institutions en activite;122,000;121,000;118,000;-;-;-;-;
+KKKSF4026A0AP;Nombre de points de services;Unite;Aucune;BCEAO;Stock;Somme en fin de periode des points de services;918,000;918,000;805,000;-;-;-;-;
+KKKSF4027A0AP;Montant des depots des clients;FCFA;Millions;BCEAO;Stock;Fin de periode;382799,000;412017,000;473540,000;-;-;-;-;
+KKKSF4028A0AP;Nombre de deposants;Unite;Aucune;BCEAO;Total des deposants sur la periode;;3369275,000;3601403,000;3699575,000;-;-;-;-;
+KKKSF4029A0AP;Montants des encours de credits;FCFA;Millions;BCEAO;Stock;Fin de periode;475861,000;500245,000;555652,700;-;-;-;-;
+KKKSF4030A0AP;Nombre de credits en cours;Unite;Aucune;BCEAO;Stock;Somme sur la periode;-;-;-;-;-;-;-;
+
+GUINEE BISSAU;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+SSSSF4025A0AP;Nombre d'institutions recensees;Unite;Aucune;BCEAO;Stock;Somme fin de periode des institutions en activite;6,000;6,000;6,000;-;-;-;-;
+SSSSF4026A0AP;Nombre de points de services;Unite;Aucune;BCEAO;Stock;Somme en fin de periode des points de services;6,000;6,000;6,000;-;-;-;-;
+SSSSF4027A0AP;Montant des depots des clients;FCFA;Millions;BCEAO;Stock;Fin de periode;88,300;85,300;81,600;-;-;-;-;
+SSSSF4028A0AP;Nombre de deposants;Unite;Aucune;BCEAO;Total des deposants sur la periode;;10685,000;10687,000;10736,000;-;-;-;-;
+SSSSF4029A0AP;Montants des encours de credits;FCFA;Millions;BCEAO;Stock;Fin de periode;69,700;63,000;56,200;-;-;-;-;
+SSSSF4030A0AP;Nombre de credits en cours;Unite;Aucune;BCEAO;Stock;Somme sur la periode;-;-;-;-;-;-;-;
+
+TOGO;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+TTTSF4025A0AP;Nombre d'institutions recensees;Unite;Aucune;BCEAO;Stock;Somme fin de periode des institutions en activite;77,000;75,000;74,000;-;-;-;-;
+TTTSF4026A0AP;Nombre de points de services;Unite;Aucune;BCEAO;Stock;Somme en fin de periode des points de services;565,000;566,000;725,000;-;-;-;-;
+TTTSF4027A0AP;Montant des depots des clients;FCFA;Millions;BCEAO;Stock;Fin de periode;232565,000;273467,000;332499,300;-;-;-;-;
+TTTSF4028A0AP;Nombre de deposants;Unite;Aucune;BCEAO;Total des deposants sur la periode;;3201451,000;3444287,000;3824815,000;-;-;-;-;
+TTTSF4029A0AP;Montants des encours de credits;FCFA;Millions;BCEAO;Stock;Fin de periode;185821,000;242903,000;299489,000;-;-;-;-;
+TTTSF4030A0AP;Nombre de credits en cours;Unite;Aucune;BCEAO;Stock;Somme sur la periode;-;-;-;-;-;-;-;
+
+ENSEMBLE UMOA;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+ZZZSF4025A0AP;Nombre d'institutions recensees;Unite;Aucune;BCEAO;Stock;Somme fin de periode des institutions en activite;514,000;506,000;498,000;-;-;-;-;
+ZZZSF4026A0AP;Nombre de points de services;Unite;Aucune;BCEAO;Stock;Somme en fin de periode des points de services;4297,000;4439,000;4557,000;-;-;-;-;
+ZZZSF4027A0AP;Montant des depots des clients;FCFA;Millions;BCEAO;Stock;Fin de periode;1568520,300;1816748,300;2007514,500;-;-;-;-;
+ZZZSF4028A0AP;Nombre de deposants;Unite;Aucune;BCEAO;Total des deposants sur la periode;;14669503,000;15757066,000;17104131,000;-;-;-;-;
+ZZZSF4029A0AP;Montants des encours de credits;FCFA;Millions;BCEAO;Stock;Fin de periode;1597405,700;1845505,000;2141350,000;-;-;-;-;
+ZZZSF4030A0AP;Nombre de credits en cours;Unite;Aucune;BCEAO;Stock;Somme sur la periode;-;-;-;-;-;-;-;
+

@@ -1,0 +1,139 @@
+
+
+DPE - DETTE PUBLIQUE EXTERIEURE
+
+COTE D'IVOIRE;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+AAAFP3001A0FA;Encours de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;16802,300;20269,800;24774,400;27782,600;31406,900;33159,200;-;
+AAAFP3003A0FA;Dette publique bilaterale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+AAAFP3004A0FA;Dette publique multilaterale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+AAAFP3005A0FA;Dette envers la Banque mondiale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+AAAFP3009A0FA;Utilisation des credits du FMI;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+AAAFP3017A0FA;Service de la dette regle;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;1926,200;2204,300;3225,300;3879,200;5206,000;5486,900;-;
+AAAFP3018A0FA;Principal du service de la dette regle;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;55,700;141,100;156,100;363,200;372,500;-;-;
+AAAFP3025A0FA;              . interets;FCFA;Milliards;Banque mondiale/FMI/BCEAO/Ministere des Finances;Flux;Somme sur la periode;746,000;831,700;1058,700;1319,800;1378,700;1514,700;-;
+AAAFP3033A0FA;Tirages ;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;702,500;1025,600;578,500;594,700;644,000;-;-;
+AAAFP3042A0FA;Reechelonnements de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+AAAFP3050A0FA;Remise de dettes;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+AAAFP3052A0FA;Reduction du stock de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+
+BENIN;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+BBBFP3001A0FA;Encours de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;4156,900;4885,800;5866,800;6508,500;6960,400;7254,000;-;
+BBBFP3003A0FA;Dette publique bilaterale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+BBBFP3004A0FA;Dette publique multilaterale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+BBBFP3005A0FA;Dette envers la Banque mondiale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+BBBFP3009A0FA;Utilisation des credits du FMI;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+BBBFP3017A0FA;Service de la dette regle;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;623,000;1026,300;585,800;714,600;836,300;937,900;-;
+BBBFP3018A0FA;Principal du service de la dette regle;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;27,300;28,900;27,100;54,700;34,000;-;-;
+BBBFP3025A0FA;              . interets;FCFA;Milliards;Banque mondiale/FMI/BCEAO/Ministere des Finances;Flux;Somme sur la periode;182,000;226,500;184,700;190,200;232,200;259,000;-;
+BBBFP3033A0FA;Tirages ;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;109,000;131,400;106,600;173,100;314,300;-;-;
+BBBFP3042A0FA;Reechelonnements de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+BBBFP3050A0FA;Remise de dettes;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+BBBFP3052A0FA;Reduction du stock de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+
+BURKINA FASO;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+CCCFP3001A0FA;Encours de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;4777,700;6178,500;6952,400;7130,700;8029,600;8744,000;-;
+CCCFP3003A0FA;Dette publique bilaterale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+CCCFP3004A0FA;Dette publique multilaterale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+CCCFP3005A0FA;Dette envers la Banque mondiale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+CCCFP3009A0FA;Utilisation des credits du FMI;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+CCCFP3017A0FA;Service de la dette regle;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;558,500;807,000;709,200;1223,400;1152,100;1669,000;-;
+CCCFP3018A0FA;Principal du service de la dette regle;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;36,200;34,100;40,600;50,200;55,100;-;-;
+CCCFP3025A0FA;              . interets;FCFA;Milliards;Banque mondiale/FMI/BCEAO/Ministere des Finances;Flux;Somme sur la periode;146,400;191,800;229,200;289,900;292,800;357,600;-;
+CCCFP3033A0FA;Tirages ;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;82,200;122,100;144,800;124,500;131,000;-;-;
+CCCFP3042A0FA;Reechelonnements de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+CCCFP3050A0FA;Remise de dettes;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+CCCFP3052A0FA;Reduction du stock de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+
+MALI;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+DDDFP3001A0FA;Encours de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;4757,000;5521,700;5918,900;6586,800;6809,300;7235,100;-;
+DDDFP3003A0FA;Dette publique bilaterale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+DDDFP3004A0FA;Dette publique multilaterale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+DDDFP3005A0FA;Dette envers la Banque mondiale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+DDDFP3009A0FA;Utilisation des credits du FMI;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+DDDFP3017A0FA;Service de la dette regle;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;810,000;641,100;807,600;920,500;1007,900;1132,800;-;
+DDDFP3018A0FA;Principal du service de la dette regle;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;62,400;105,200;71,100;85,700;89,300;-;-;
+DDDFP3025A0FA;              . interets;FCFA;Milliards;Banque mondiale/FMI/BCEAO/Ministere des Finances;Flux;Somme sur la periode;123,600;141,700;177,400;182,500;208,400;214,500;-;
+DDDFP3033A0FA;Tirages ;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;119,500;225,200;149,900;206,300;97,300;-;-;
+DDDFP3042A0FA;Reechelonnements de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+DDDFP3050A0FA;Remise de dettes;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+DDDFP3052A0FA;Reduction du stock de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+
+NIGER;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+HHHFP3001A0FA;Encours de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;3510,400;4205,600;4880,200;5272,500;5563,100;6143,900;-;
+HHHFP3003A0FA;Dette publique bilaterale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+HHHFP3004A0FA;Dette publique multilaterale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+HHHFP3005A0FA;Dette envers la Banque mondiale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+HHHFP3009A0FA;Utilisation des credits du FMI;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+HHHFP3017A0FA;Service de la dette regle;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;945,200;544,900;813,000;924,700;926,500;1178,600;-;
+HHHFP3018A0FA;Principal du service de la dette regle;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;20,600;25,300;24,000;26,200;36,500;-;-;
+HHHFP3025A0FA;              . interets;FCFA;Milliards;Banque mondiale/FMI/BCEAO/Ministere des Finances;Flux;Somme sur la periode;80,400;91,400;120,200;140,800;195,800;207,100;-;
+HHHFP3033A0FA;Tirages ;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;140,800;209,800;203,400;182,900;166,400;-;-;
+HHHFP3042A0FA;Reechelonnements de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+HHHFP3050A0FA;Remise de dettes;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+HHHFP3052A0FA;Reduction du stock de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+
+SENEGAL;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+KKKFP3001A0FA;Encours de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;11838,100;13861,300;16812,600;20738,100;23672,500;25884,200;-;
+KKKFP3003A0FA;Dette publique bilaterale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+KKKFP3004A0FA;Dette publique multilaterale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+KKKFP3005A0FA;Dette envers la Banque mondiale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+KKKFP3009A0FA;Utilisation des credits du FMI;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+KKKFP3017A0FA;Service de la dette regle;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;1414,100;1068,200;1328,100;2115,800;2477,800;2399,500;-;
+KKKFP3018A0FA;Principal du service de la dette regle;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;49,100;108,300;106,300;177,900;249,500;-;-;
+KKKFP3025A0FA;              . interets;FCFA;Milliards;Banque mondiale/FMI/BCEAO/Ministere des Finances;Flux;Somme sur la periode;288,400;323,600;384,100;568,300;655,300;662,700;-;
+KKKFP3033A0FA;Tirages ;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;177,700;246,100;293,700;424,700;381,900;-;-;
+KKKFP3042A0FA;Reechelonnements de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+KKKFP3050A0FA;Remise de dettes;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+KKKFP3052A0FA;Reduction du stock de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+
+GUINEE BISSAU;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+SSSFP3001A0FA;Encours de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;598,100;707,900;794,300;996,500;1017,300;1119,400;-;
+SSSFP3003A0FA;Dette publique bilaterale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+SSSFP3004A0FA;Dette publique multilaterale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+SSSFP3005A0FA;Dette envers la Banque mondiale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+SSSFP3009A0FA;Utilisation des credits du FMI;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+SSSFP3017A0FA;Service de la dette regle;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;90,800;105,900;98,600;122,100;164,300;135,000;-;
+SSSFP3018A0FA;Principal du service de la dette regle;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;0,300;2,600;2,700;4,500;3,400;-;-;
+SSSFP3025A0FA;              . interets;FCFA;Milliards;Banque mondiale/FMI/BCEAO/Ministere des Finances;Flux;Somme sur la periode;10,600;13,700;15,900;19,700;39,000;40,500;-;
+SSSFP3033A0FA;Tirages ;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;13,100;13,000;13,500;12,700;45,300;-;-;
+SSSFP3042A0FA;Reechelonnements de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+SSSFP3050A0FA;Remise de dettes;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+SSSFP3052A0FA;Reduction du stock de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+
+TOGO;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+TTTFP3001A0FA;Encours de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;2423,100;2912,500;3337,200;3707,900;4217,800;4312,600;-;
+TTTFP3003A0FA;Dette publique bilaterale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+TTTFP3004A0FA;Dette publique multilaterale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+TTTFP3005A0FA;Dette envers la Banque mondiale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+TTTFP3009A0FA;Utilisation des credits du FMI;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+TTTFP3017A0FA;Service de la dette regle;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;481,000;506,300;504,300;552,100;633,800;881,600;-;
+TTTFP3018A0FA;Principal du service de la dette regle;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;20,500;21,700;31,500;40,300;33,700;-;-;
+TTTFP3025A0FA;              . interets;FCFA;Milliards;Banque mondiale/FMI/BCEAO/Ministere des Finances;Flux;Somme sur la periode;99,300;99,800;124,500;153,000;190,700;143,700;-;
+TTTFP3033A0FA;Tirages ;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;64,600;91,000;82,200;29,800;58,200;-;-;
+TTTFP3042A0FA;Reechelonnements de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+TTTFP3050A0FA;Remise de dettes;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+TTTFP3052A0FA;Reduction du stock de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+
+ENSEMBLE UMOA;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+ZZZFP3001A0FA;Encours de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;48863,600;58543,100;69336,800;78723,600;88507,700;93922,400;-;
+ZZZFP3003A0FA;Dette publique bilaterale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+ZZZFP3004A0FA;Dette publique multilaterale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+ZZZFP3005A0FA;Dette envers la Banque mondiale;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+ZZZFP3009A0FA;Utilisation des credits du FMI;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Stock;Fin de periode;-;-;-;-;-;-;-;
+ZZZFP3017A0FA;Service de la dette regle;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;6848,800;6903,900;8071,900;10517,300;12571,000;15387,100;-;
+ZZZFP3018A0FA;Principal du service de la dette regle;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;272,100;467,200;459,400;802,700;874,000;-;-;
+ZZZFP3025A0FA;              . interets;FCFA;Milliards;Banque mondiale/FMI/BCEAO/Ministere des Finances;Flux;Somme sur la periode;1676,700;1920,200;2294,700;2864,200;3177,500;3297,600;-;
+ZZZFP3033A0FA;Tirages ;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;1409,400;2064,200;1572,600;1748,700;1838,400;-;-;
+ZZZFP3042A0FA;Reechelonnements de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+ZZZFP3050A0FA;Remise de dettes;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+ZZZFP3052A0FA;Reduction du stock de la dette;FCFA;Milliards;Banque mondiale/FMI/BCEAO;Flux;Somme sur la periode;-;-;-;-;-;-;-;
+

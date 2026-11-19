@@ -1,0 +1,148 @@
+
+
+IHPC - INDICE DES PRIX A LA CONSOMMATION ANNUEL
+
+COTE D'IVOIRE;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+AAASR3021A0BP;Alimentation;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;80,200;86,300;94,000;100,000;104,500;105,700;-;
+AAASR3050A0BP;Boissons alcoolisees, Tabac et stupefiants;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;95,000;96,500;98,300;100,000;102,500;101,200;-;
+AAASR3022A0BP;Habillement;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;94,700;96,000;98,200;100,000;101,200;100,900;-;
+AAASR3024A0BP;Ameublement;Aucune;aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;94,400;96,100;98,000;100,000;103,200;100,400;-;
+AAASR3023A0BP;Logement;Aucune;aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;87,200;90,700;95,900;100,000;106,600;105,600;-;
+AAASR3025A0BP;Sante;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;96,100;97,600;99,000;100,000;102,900;100,500;-;
+AAASR3026A0BP;Transport;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;84,500;86,900;92,400;100,000;103,100;102,000;-;
+AAASR3051A0BP;Communication;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;95,100;98,700;99,500;100,000;100,700;104,900;-;
+AAASR3027A0BP;Loisirs;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;99,100;98,600;99,200;100,000;101,700;100,400;-;
+AAASR3028A0BP;Enseignement;Aucune;Aucune;Institut National de la Statistique, Base 100=2014;Indice;Moyenne sur la periode;95,400;98,600;99,500;100,000;100,000;102,200;-;
+AAASR3029A0BP;Hotels et restaurants;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;88,200;90,400;94,700;100,000;101,700;100,800;-;
+AAASR3030A0BP;Soins personnels et biens divers;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;93,600;95,900;98,600;100,000;101,600;100,400;-;
+AAASR3017A0BP;Ensemble;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;87,400;91,000;95,800;100,000;103,500;103,600;-;
+
+BENIN;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+BBBSR3021A0BP;Alimentation;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;94,800;100,400;99,700;100,000;100,700;104,700;-;
+BBBSR3050A0BP;Boissons alcoolisees, Tabac et stupefiants;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;94,100;95,900;99,100;100,000;97,700;99,000;-;
+BBBSR3022A0BP;Habillement;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;92,400;94,500;97,300;100,000;100,500;103,200;-;
+BBBSR3024A0BP;Ameublement;Aucune;aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;93,100;93,200;97,300;100,000;100,800;102,500;-;
+BBBSR3023A0BP;Logement;Aucune;aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;93,600;91,800;94,000;100,000;103,600;102,600;-;
+BBBSR3025A0BP;Sante;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;97,400;98,000;99,700;100,000;101,200;103,900;-;
+BBBSR3026A0BP;Transport;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;86,800;84,000;89,700;100,000;100,900;103,000;-;
+BBBSR3051A0BP;Communication;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;101,000;100,400;100,100;100,000;99,300;96,700;-;
+BBBSR3027A0BP;Loisirs;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;94,500;94,700;96,600;100,000;101,400;100,800;-;
+BBBSR3028A0BP;Enseignement;Aucune;Aucune;Institut National de la Statistique, Base 100=2014;Indice;Moyenne sur la periode;98,700;98,700;99,100;100,000;100,400;100,800;-;
+BBBSR3029A0BP;Hotels et restaurants;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;98,500;98,200;98,900;100,000;102,700;98,700;-;
+BBBSR3030A0BP;Soins personnels et biens divers;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;93,800;93,800;97,000;100,000;100,400;101,000;-;
+BBBSR3017A0BP;Ensemble;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;94,400;96,000;97,300;100,000;101,200;102,300;-;
+
+BURKINA FASO;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+CCCSR3021A0BP;Alimentation;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;76,700;82,000;101,800;100,000;106,300;107,800;-;
+CCCSR3050A0BP;Boissons alcoolisees, Tabac et stupefiants;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;81,500;85,300;94,000;100,000;98,600;109,300;-;
+CCCSR3022A0BP;Habillement;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;99,600;99,700;99,900;100,000;100,100;100,300;-;
+CCCSR3024A0BP;Ameublement;Aucune;aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;99,200;99,200;99,700;100,000;100,000;100,800;-;
+CCCSR3023A0BP;Logement;Aucune;aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;86,500;87,900;91,500;100,000;106,200;102,000;-;
+CCCSR3025A0BP;Sante;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;95,100;95,300;95,300;100,000;101,000;101,700;-;
+CCCSR3026A0BP;Transport;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;90,100;89,700;94,000;100,000;100,600;101,500;-;
+CCCSR3051A0BP;Communication;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;99,700;99,700;99,700;100,000;100,300;98,600;-;
+CCCSR3027A0BP;Loisirs;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;99,600;99,600;99,900;100,000;100,500;100,100;-;
+CCCSR3028A0BP;Enseignement;Aucune;Aucune;Institut National de la Statistique, Base 100=2014;Indice;Moyenne sur la periode;93,600;95,000;98,100;100,000;102,100;101,400;-;
+CCCSR3029A0BP;Hotels et restaurants;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;93,800;94,500;96,100;100,000;101,300;104,200;-;
+CCCSR3030A0BP;Soins personnels et biens divers;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;98,700;98,500;99,700;100,000;100,500;101,600;-;
+CCCSR3017A0BP;Ensemble;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;83,800;87,000;99,300;100,000;104,200;103,600;-;
+
+MALI;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+DDDSR3021A0BP;Alimentation;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;81,800;86,000;97,900;100,000;103,900;105,100;-;
+DDDSR3050A0BP;Boissons alcoolisees, Tabac et stupefiants;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;91,300;94,900;97,300;100,000;114,100;104,500;-;
+DDDSR3022A0BP;Habillement;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;94,300;95,200;98,200;100,000;101,900;103,000;-;
+DDDSR3024A0BP;Ameublement;Aucune;aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;94,000;94,800;97,200;100,000;101,100;103,200;-;
+DDDSR3023A0BP;Logement;Aucune;aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;96,600;95,600;99,700;100,000;99,800;114,600;-;
+DDDSR3025A0BP;Sante;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;91,900;99,400;100,900;100,000;112,300;104,700;-;
+DDDSR3026A0BP;Transport;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;88,900;89,400;95,600;100,000;100,600;95,600;-;
+DDDSR3051A0BP;Communication;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;101,200;104,500;102,800;100,000;99,200;111,500;-;
+DDDSR3027A0BP;Loisirs;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;77,200;93,800;95,600;100,000;101,500;105,000;-;
+DDDSR3028A0BP;Enseignement;Aucune;Aucune;Institut National de la Statistique, Base 100=2014;Indice;Moyenne sur la periode;90,300;94,200;95,800;100,000;102,800;107,500;-;
+DDDSR3029A0BP;Hotels et restaurants;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;92,800;95,000;97,000;100,000;105,100;106,800;-;
+DDDSR3030A0BP;Soins personnels et biens divers;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;87,800;89,600;95,300;100,000;103,200;104,100;-;
+DDDSR3017A0BP;Ensemble;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;86,000;89,400;98,000;100,000;103,200;105,600;-;
+
+NIGER;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+HHHSR3021A0BP;Alimentation;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;83,100;89,300;95,900;100,000;112,700;107,500;-;
+HHHSR3050A0BP;Boissons alcoolisees, Tabac et stupefiants;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;91,200;90,200;93,400;100,000;99,500;97,500;-;
+HHHSR3022A0BP;Habillement;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;94,300;95,500;97,900;100,000;101,400;103,400;-;
+HHHSR3024A0BP;Ameublement;Aucune;aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;93,500;95,000;96,100;100,000;106,800;100,700;-;
+HHHSR3023A0BP;Logement;Aucune;aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;93,100;93,700;94,900;100,000;97,600;100,400;-;
+HHHSR3025A0BP;Sante;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;95,500;95,100;98,200;100,000;106,300;102,400;-;
+HHHSR3026A0BP;Transport;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;100,200;98,000;97,700;100,000;98,300;100,400;-;
+HHHSR3051A0BP;Communication;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;98,400;98,500;99,400;100,000;102,400;92,600;-;
+HHHSR3027A0BP;Loisirs;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;94,900;95,200;96,600;100,000;100,700;104,900;-;
+HHHSR3028A0BP;Enseignement;Aucune;Aucune;Institut National de la Statistique, Base 100=2014;Indice;Moyenne sur la periode;100,600;99,900;100,000;100,000;101,600;94,700;-;
+HHHSR3029A0BP;Hotels et restaurants;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;95,600;96,900;97,700;100,000;130,500;103,100;-;
+HHHSR3030A0BP;Soins personnels et biens divers;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;93,000;93,900;95,700;100,000;103,100;103,200;-;
+HHHSR3017A0BP;Ensemble;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;89,100;92,500;96,400;100,000;109,100;104,000;-;
+
+SENEGAL;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+KKKSR3021A0BP;Alimentation;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;78,900;81,200;93,500;100,000;100,600;102,200;-;
+KKKSR3050A0BP;Boissons alcoolisees, Tabac et stupefiants;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;93,900;94,500;97,800;100,000;101,500;110,900;-;
+KKKSR3022A0BP;Habillement;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;92,600;93,300;96,700;100,000;100,700;101,200;-;
+KKKSR3024A0BP;Ameublement;Aucune;aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;89,800;92,400;96,400;100,000;102,100;103,900;-;
+KKKSR3023A0BP;Logement;Aucune;aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;90,300;91,700;95,500;100,000;99,400;100,600;-;
+KKKSR3025A0BP;Sante;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;95,000;95,900;98,100;100,000;101,200;102,900;-;
+KKKSR3026A0BP;Transport;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;92,000;94,100;96,300;100,000;100,700;102,200;-;
+KKKSR3051A0BP;Communication;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;99,800;96,100;94,400;100,000;101,100;96,900;-;
+KKKSR3027A0BP;Loisirs;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;84,000;84,100;91,400;100,000;101,500;101,800;-;
+KKKSR3028A0BP;Enseignement;Aucune;Aucune;Institut National de la Statistique, Base 100=2014;Indice;Moyenne sur la periode;94,900;96,600;98,200;100,000;101,700;102,600;-;
+KKKSR3029A0BP;Hotels et restaurants;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;86,500;88,500;94,000;100,000;102,700;104,900;-;
+KKKSR3030A0BP;Soins personnels et biens divers;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;89,000;91,200;94,200;100,000;103,600;102,900;-;
+KKKSR3017A0BP;Ensemble;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;84,200;86,000;94,400;100,000;100,800;102,300;-;
+
+GUINEE BISSAU;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+SSSSR3021A0BP;Alimentation;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;78,800;83,100;91,400;100,000;103,200;108,600;-;
+SSSSR3050A0BP;Boissons alcoolisees, Tabac et stupefiants;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;96,100;93,500;94,900;100,000;100,800;103,300;-;
+SSSSR3022A0BP;Habillement;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;98,300;98,600;98,800;100,000;100,000;101,600;-;
+SSSSR3024A0BP;Ameublement;Aucune;aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;98,800;99,200;100,100;100,000;99,900;102,600;-;
+SSSSR3023A0BP;Logement;Aucune;aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;71,000;72,500;88,500;100,000;124,000;104,600;-;
+SSSSR3025A0BP;Sante;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;94,800;95,500;98,200;100,000;100,800;99,400;-;
+SSSSR3026A0BP;Transport;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;87,600;87,900;95,800;100,000;100,000;102,100;-;
+SSSSR3051A0BP;Communication;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;101,600;101,500;101,600;100,000;98,900;100,300;-;
+SSSSR3027A0BP;Loisirs;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;100,000;100,000;99,700;100,000;99,900;100,100;-;
+SSSSR3028A0BP;Enseignement;Aucune;Aucune;Institut National de la Statistique, Base 100=2014;Indice;Moyenne sur la periode;98,100;98,800;101,000;100,000;102,400;100,900;-;
+SSSSR3029A0BP;Hotels et restaurants;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;97,300;97,700;101,100;100,000;98,500;100,700;-;
+SSSSR3030A0BP;Soins personnels et biens divers;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;99,500;99,700;99,900;100,000;100,000;101,200;-;
+SSSSR3017A0BP;Ensemble;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;83,700;86,500;93,300;100,000;103,700;104,600;-;
+
+TOGO;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+TTTSR3021A0BP;Alimentation;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;79,100;86,900;96,600;100,000;105,300;107,200;-;
+TTTSR3050A0BP;Boissons alcoolisees, Tabac et stupefiants;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;90,400;91,800;96,200;100,000;98,700;102,100;-;
+TTTSR3022A0BP;Habillement;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;89,200;89,700;94,500;100,000;102,500;100,800;-;
+TTTSR3024A0BP;Ameublement;Aucune;aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;88,300;89,500;94,700;100,000;101,900;100,900;-;
+TTTSR3023A0BP;Logement;Aucune;aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;87,000;87,800;95,000;100,000;101,400;106,200;-;
+TTTSR3025A0BP;Sante;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;99,500;99,400;99,900;100,000;100,300;101,000;-;
+TTTSR3026A0BP;Transport;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;81,900;82,200;92,700;100,000;100,900;98,800;-;
+TTTSR3051A0BP;Communication;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;94,400;100,200;100,100;100,000;99,800;99,600;-;
+TTTSR3027A0BP;Loisirs;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;87,400;88,600;95,800;100,000;100,200;95,500;-;
+TTTSR3028A0BP;Enseignement;Aucune;Aucune;Institut National de la Statistique, Base 100=2014;Indice;Moyenne sur la periode;98,500;98,400;97,400;100,000;103,900;101,700;-;
+TTTSR3029A0BP;Hotels et restaurants;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;82,900;85,400;89,200;100,000;101,800;104,900;-;
+TTTSR3030A0BP;Soins personnels et biens divers;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;92,100;93,500;97,000;100,000;102,300;102,400;-;
+TTTSR3017A0BP;Ensemble;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;84,400;88,200;95,000;100,000;102,900;103,300;-;
+
+ENSEMBLE UMOA;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+ZZZSR3021A0BP;Alimentation;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;80,600;85,600;96,300;100,000;104,700;105,200;-;
+ZZZSR3050A0BP;Boissons alcoolisees, Tabac et stupefiants;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;89,000;91,200;96,000;100,000;101,300;102,900;-;
+ZZZSR3022A0BP;Habillement;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;94,200;95,200;97,700;100,000;101,100;101,800;-;
+ZZZSR3024A0BP;Ameublement;Aucune;aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;93,700;95,100;97,300;100,000;102,900;101,900;-;
+ZZZSR3023A0BP;Logement;Aucune;aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;89,400;91,100;95,400;100,000;103,500;104,900;-;
+ZZZSR3025A0BP;Sante;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;95,600;97,300;98,900;100,000;103,700;102,200;-;
+ZZZSR3026A0BP;Transport;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;88,100;88,700;93,700;100,000;101,300;101,100;-;
+ZZZSR3051A0BP;Communication;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;97,200;99,500;99,500;100,000;100,500;101,800;-;
+ZZZSR3027A0BP;Loisirs;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;92,100;93,700;96,500;100,000;101,300;100,300;-;
+ZZZSR3028A0BP;Enseignement;Aucune;Aucune;BCEAO-Institut National de la Statistique, Base 100=2014;Indice;Moyenne sur la periode;96,000;97,900;98,900;100,000;100,900;102,200;-;
+ZZZSR3029A0BP;Hotels et restaurants;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;89,600;91,300;94,600;100,000;104,200;102,500;-;
+ZZZSR3030A0BP;Soins personnels et biens divers;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;92,800;94,500;97,300;100,000;101,900;102,000;-;
+ZZZSR3017A0BP;Ensemble;Aucune;Aucune;Institut National de la Statistique, Base 100=2023;Indice;Moyenne sur la periode;86,700;89,700;96,400;100,000;103,500;103,500;-;
+

@@ -1,0 +1,19 @@
+
+
+TC_A - TAUX DE CHANGE ANNUEL
+
+ENSEMBLE UMOA;
+CODE;LIBELLE;UNITE DE MESURE;MAGNITUDE;SOURCE;TYPE SERIE;METHODE OBSERVATION;2020;2021;2022;2023;2024;2025;2026;
+ZZZSF3100A0GP;Cours du dollar US;FCFA/unite;aucune;BCEAO / Banque de France;Stock;Moyenne sur la periode;575,590;554,530;623,760;606,560;606,350;581,930;-;
+ZZZSF3109A0GP;Cours de la Livre sterling;FCFA/unite;aucune;BCEAO / Banque de France;Stock;Moyenne sur la periode;738,120;762,880;769,570;754,140;774,940;766,010;-;
+ZZZSF3112A0GP;Cours du Yen;FCFA/unite;aucune;BCEAO / Banque de France;Stock;Moyenne sur la periode;5,390;5,050;4,760;4,330;4,010;3,890;-;
+ZZZSF3129A0GP;Cours du Franc suisse;FCFA/unite;aucune;BCEAO / Banque de France;Stock;Moyenne sur la periode;612,910;606,760;653,090;675,220;688,800;700,010;-;
+ZZZSF3138A0GP;Cours du Dollar canadien;FCFA/unite;aucune;BCEAO / Banque de France;Stock;Moyenne sur la periode;429,160;442,390;479,190;449,460;442,690;416,020;-;
+ZZZSF3141A0GP;Cours du DTS (FMI);FCFA/unite;aucune;BCEAO / FMI;Stock;Moyenne sur la periode;801,430;789,920;834,060;809,260;804,750;784,870;-;
+ZZZSF3144A0GP;Cours du Naira;FCFA/unite;aucune;BCEAO / AMAO;Stock;Moyenne sur la periode;1,740;1,400;1,470;1,060;0,420;0,400;-;
+ZZZSF3148A0GP;Cours du Cedi;FCFA/unite;aucune;BCEAO / AMAO;Stock;Moyenne sur la periode;103,030;95,530;80,640;55,320;43,220;46,640;-;
+ZZZSF3157A0GP;Cours du Dalasi;FCFA/unite;aucune;BCEAO / AMAO;Stock;Moyenne sur la periode;11,310;10,870;11,220;10,010;8,890;8,300;-;
+ZZZSF3161A0GP;Cours du franc Guineen;FCFA/ 100 unites;aucune;BCEAO / AMAO;Stock;Moyenne sur la periode;0,060;0,060;0,120;7,070;7,180;6,800;-;
+ZZZSF3170A0GP;Cours du yuan chinois;Fcfa/unite;aucune;BCEAO / Banque de France;Stock;Moyenne sur la periode;83,380;100,090;120,900;85,710;84,250;80,930;-;
+ZZZSF3172A0GP;;fcfa/unité;aucune;FMI;Stock;Fin de période;0,040;0,040;0,040;7,340;7,250;6,680;-;
+

@@ -107,6 +107,7 @@ def extract_reports(homepage):
     reports = []
     seen = set()
 
+    # Captures argument of the soumettreTab function in the onclick attribute
     pattern = re.compile(
         r"""soumettreTab\(\s*['"]([^'"]+)['"]\s*,\s*
         ['"]([^'"]+)['"]\s*,\s*['"]((?:\\.|[^'"])*)['"]""",
@@ -233,6 +234,7 @@ def build_params(frequency, countries):
 # ==========================================================
 
 def serialize_form(form, countries=None):
+
 
     countries = countries or []
 

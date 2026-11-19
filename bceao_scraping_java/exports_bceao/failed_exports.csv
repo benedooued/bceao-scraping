@@ -1,0 +1,4 @@
+frequency,id_tab,title,error
+"M","12","SITUATION DETAILLEE DE LA BANQUE CENTRALE","Server returned HTML page instead of expected data file."
+"M","35","TAUX D'INTERET DES BANQUES","Server returned HTML page instead of expected data file."
+"M","34","CREDIT SECTORIEL DE CENTRALE DE RISQUE MENSUEL","HTTP request failed with status code: 404"

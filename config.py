@@ -1,27 +1,26 @@
+from pathlib import Path
+from urllib.parse import urljoin
 
-BASE_URL = "https://edenpub.bceao.int"
+BASE_URL = "https://edenpub.bceao.int/"
+HOME_URL = urljoin(BASE_URL, "rapportPredefini.php")
 
-HOME_URL = f"{BASE_URL}/rapportPredefini.php"
+OUTPUT_DIR = Path("exports_bceao")
+OUTPUT_DIR.mkdir(exist_ok=True)
 
-COUNTRIES = [
-    "B",  # Côte d'Ivoire
-    "C",  # Bénin
-    "A",  # Burkina Faso
-    "S",  # Mali
-    "D",  # Niger
-    "H",  # Sénégal
-    "K",  # Guinée-Bissau
-    "T",  # Togo
-    "Z",  # Ensemble UMOA
-]
+# Pays : les codes seront aussi détectés depuis le formulaire.
+KNOWN_COUNTRIES = ["B", "C", "A", "S", "D", "H", "K", "T", "Z"]
 
-# Annual reports
+# Période annuelle
 ANNUAL_START_YEAR = 1960
 ANNUAL_END_YEAR = 2026
 
-# Monthly reports
-MONTHLY_START_MONTH = 1
-MONTHLY_START_YEAR = 2020
+# Période mensuelle
+MONTHLY_START = ("01", 2020)  # Janvier 2020
+MONTHLY_END = ("12", 2025)    # Décembre 2025
 
-MONTHLY_END_MONTH = 12
-MONTHLY_END_YEAR = 2026
+METADATA = "1"
+
+# Le site a précédemment fonctionné avec verify=False.
+# À réactiver à True lorsque le problème de certificat SSL sera réglé.
+VERIFY_SSL = False
+

@@ -1,56 +1,84 @@
+import time
+from urllib.parse import urljoin
+from bs4 import BeautifulSoup
+import pandas as pd
 
-from scraper import (
-    create_session,
-    get_homepage,
-    extract_reports,
-    open_report,
-    download_report_excel
-)
+import config
+from client import create_session, request_with_retry
+from scrapers import extract_reports, detect_countries, build_params, serialize_form, set_payload_value
+from storage import save_report_file
 
-# 1. Connexion
-session = create_session()
+def process_single_report(session, report):
+    # Step 1: Fetch form configuration page
+    url_config = urljoin(config.BASE_URL, "tableauPredefini.php")
+    resp_config = request_with_retry(
+        session, "POST", url_config, 
+        data={"frequence": report["frequency"], "idTab": report["id_tab"], "libelleTab": report["title"]},
+        headers={"Referer": config.HOME_URL}
+    )
+    report_page = BeautifulSoup(resp_config.text, "html.parser")
+    form = report_page.find("form", id="form_consultation")
+    if not form:
+        raise ValueError("form_consultation missing.")
 
-# 2. Récupérer la liste des rapports
-homepage = get_homepage(session)
-reports = extract_reports(homepage)
+    # Step 2: Prepare parameters and payload
+    countries = detect_countries(form)
+    params = build_params(report["frequency"], countries)
+    
+    action = form.get("action") or "rapportPredefini.php"
+    gen_url = urljoin(config.BASE_URL, action)
+    payload = serialize_form(form, countries)
+    payload = set_payload_value(payload, "params", params)
+    payload = set_payload_value(payload, "idTab", report["id_tab"])
 
-# 3. Sélectionner le rapport IPC mensuel
-report = next(
-    r for r in reports
-    if r["id_tab"] == "20"
-)
+    # Step 3: Generate result page
+    resp_result = request_with_retry(session, "POST", gen_url, data=payload, headers={"Referer": gen_url})
+    result_page = BeautifulSoup(resp_result.text, "html.parser")
 
-print("Rapport sélectionné :", report["title"])
+    # Step 4: Download exported file
+    export_form = next((f for f in result_page.find_all("form") if "export" in f.get("action", "").lower()), None)
+    if export_form:
+        export_url = urljoin(config.BASE_URL, export_form.get("action"))
+        export_payload = serialize_form(export_form)
+    else:
+        export_url = urljoin(config.BASE_URL, "exportTableauPredefiniEnColonne.php")
+        export_payload = []
 
-# 4. Ouvrir le formulaire du rapport
-report_page = open_report(session, report)
+    export_payload = set_payload_value(export_payload, "params", params)
+    export_payload = set_payload_value(export_payload, "idTab", report["id_tab"])
+    export_payload = set_payload_value(export_payload, "export", "")
 
-# 5. Définir les paramètres
-countries = ["A", "B", "C", "S", "D", "H", "K", "T"]
+    file_resp = request_with_retry(session, "POST", export_url, data=export_payload, headers={"Referer": config.HOME_URL})
+    
+    if "html" in file_resp.headers.get("Content-Type", "").lower():
+        raise ValueError("Server returned HTML page instead of expected data file.")
 
-start_month = "01"
-start_year = "2020"
+    return save_report_file(file_resp.content, report["id_tab"], report["title"])
 
-end_month = "12"
-end_year = "2025"
+def main():
+    session = create_session()
+    print("Connecting to BCEAO portal...")
+    
+    home_resp = request_with_retry(session, "GET", config.HOME_URL)
+    homepage = BeautifulSoup(home_resp.text, "html.parser")
+    reports = extract_reports(homepage)
 
-metadata = "1"
+    successful, failed = [], []
 
-# 6. Construire la chaîne de paramètres
-params = (
-    f"M*{';'.join(countries)}*"
-    f"{start_month};{start_year}*"
-    f"{end_month};{end_year}*"
-    f"{metadata}*l"
-)
+    for index, report in enumerate(reports, start=1):
+        print(f"\nProcessing [{index}/{len(reports)}]: {report['title']}")
+        try:
+            filepath = process_single_report(session, report)
+            print(f"  Success -> Saved to {filepath}")
+            successful.append({**report, "file": str(filepath)})
+        except Exception as error:
+            print(f"  Failed -> {error}")
+            failed.append({**report, "error": str(error)})
+        
+        time.sleep(2)
 
-print("Paramètres :", params)
+    pd.DataFrame(successful).to_csv(config.OUTPUT_DIR / "successful_exports.csv", index=False)
+    pd.DataFrame(failed).to_csv(config.OUTPUT_DIR / "failed_exports.csv", index=False)
 
-# 7. Télécharger le fichier
-filepath = download_report_excel(
-    session,
-    report,
-    params
-)
-
-print("Téléchargement terminé :", filepath)
+if __name__ == "__main__":
+    main()
