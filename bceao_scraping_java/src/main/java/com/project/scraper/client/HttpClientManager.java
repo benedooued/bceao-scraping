@@ -12,6 +12,10 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 import java.time.Duration;
 
+/**
+ * Manages HTTP client configuration and request execution with retry logic.
+ */
+
 public class HttpClientManager {
 
     private static final String DEFAULT_USER_AGENT = 

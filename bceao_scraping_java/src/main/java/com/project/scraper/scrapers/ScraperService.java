@@ -15,6 +15,10 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
+/**
+ * Service class for scraping and parsing report data from the BCEAO website.
+ */
+
 public class ScraperService {
 
     // Regex parsing soumettreTab('freq', 'id', 'title')

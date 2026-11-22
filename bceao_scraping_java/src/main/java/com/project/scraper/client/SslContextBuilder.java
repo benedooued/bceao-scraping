@@ -8,6 +8,11 @@ import javax.net.ssl.X509TrustManager;
 import java.security.SecureRandom;
 import java.security.cert.X509Certificate;
 
+/**
+ * Utility class to create an SSLContext that trusts all certificates.
+ * This is used when SSL verification is disabled in the application configuration.
+ */
+
 public class SslContextBuilder {
 
     /**

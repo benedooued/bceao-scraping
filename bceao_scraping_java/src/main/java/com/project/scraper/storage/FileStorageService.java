@@ -8,6 +8,10 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.Arrays;
 
+/**
+ * Service class responsible for saving report files to disk with proper extension detection and filename sanitization.
+ */
+
 public class FileStorageService {
 
     // Magic bytes detection signatures
